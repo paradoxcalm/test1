@@ -2,7 +2,7 @@
 name = "wbnotifierbot"
 version = "0.1.0"
 description = ""
-authors = ["ParadoxCalm tg @ParadoxCalm"]
+authors = ["ParadoxCalm <Mstitel-96@mail.ru>"]
 readme = "README.md"
 packages = [{include = "wbnotifierbot"}]
 
